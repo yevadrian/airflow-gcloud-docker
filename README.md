@@ -1,4 +1,4 @@
-## Upload remote files to your Google Cloud Storage with Google Cloud SDK on Docker.
+## Ingest data to your Google Cloud Storage and Google BigQuery with Airflow on Docker.
 
 ##### Modify "key.json" according to your Google service account credentials.
 > nano key.json
