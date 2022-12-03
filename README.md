@@ -1,4 +1,4 @@
-### Ingest data to Google Cloud Storage and Google BigQuery External Table with Airflow on Docker.
+### Ingest data to Google Cloud Storage and Google BigQuery with Airflow on Docker.
 
 ##### Modify "key.json" according to your Google service account credentials.
 > nano key.json
