@@ -1,4 +1,4 @@
-### Ingesting data to Google Cloud Storage and Google BigQuery with Apache Airflow on Docker.
+### Ingest data to Google Cloud Storage and Google BigQuery with Apache Airflow on Docker.
 
 ##### Modify "key.json" according to your Google service account credentials.
 > nano key.json
