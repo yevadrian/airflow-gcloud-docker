@@ -7,9 +7,6 @@
 > nano dags/data_ingestion.py
 
 Create Airflow stacks with Docker Compose.
-> sudo docker exec -it gcloud sh -c "pip install --upgrade google-cloud-storage && pip install wget"
-
-##### Run the script to upload a remote file:
 > sudo docker compose up
 
 ##### Open Airflow in your web browser and run the DAG.
