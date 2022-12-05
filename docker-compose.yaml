@@ -5,7 +5,6 @@ name: airflow
 x-airflow-common:
   &airflow-common
   image: apache/airflow:latest
-  command: pip install google-cloud
   environment:
     &airflow-common-env
     AIRFLOW__CORE__EXECUTOR: SequentialExecutor
