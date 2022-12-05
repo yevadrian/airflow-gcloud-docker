@@ -10,4 +10,4 @@ Create Airflow stacks with Docker Compose.
 > sudo docker compose up
 
 ##### Open Airflow in your web browser and run the DAG.
-> [localhost:8080](https://localhost:8080)
+> [localhost:8080](localhost:8080)
