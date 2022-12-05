@@ -7,7 +7,7 @@
 > nano dags/data_ingestion.py
 
 Create Airflow stacks with Docker Compose.
-> sudo docker compose up
+> sudo docker compose up -d
 
-##### Open Airflow in your web browser and run the DAG with username "airflow" and password "airflow".
+##### Open Airflow with username "airflow" and password "airflow" then run the DAG.
 > localhost:8080
